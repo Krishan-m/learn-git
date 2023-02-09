@@ -1,1 +1,4 @@
-error.log
+*.log
+new_file
+folder/
+another_file.txt
